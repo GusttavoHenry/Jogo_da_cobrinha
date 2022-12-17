@@ -57,13 +57,3 @@ Esse projeto foi desenvolvido com as seguintes Linguagens:
 -----
 
   <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/gustavo-henrique-375aba214/">Gustavo Henrique</a> ☕</h3>
-
-
-
-
-
-
-
-
-Esse projeto simula o jogo da cobrinha em uma pagina HTML 
-Em desenvolvimento
